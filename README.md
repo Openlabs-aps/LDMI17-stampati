@@ -7,4 +7,4 @@ Stampati per il Linux Day Milano 2017
 - locandine da appendere (A3)
 ## Cartellonistica interna
 - Totem da esterno per indicare aule e programma
-- Locandica con programma per aula
+- Locandina con programma per aula
